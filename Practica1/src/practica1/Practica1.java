@@ -17,6 +17,8 @@ public class Practica1
     public static void main(String[] args)
     {
         // TODO code application logic here
-       System.out.print( " INSTITUTO TECNOLOGICO SUPERIOR DE ESCARCEGA " );    
+       System.out.print( " INSTITUTO TECNOLOGICO SUPERIOR DE ESCARCEGA " );  
+       
+       System.out.print("    NOMBRE DEL ALUMNO: ROBERT ALEXANDER RAMIREZ CHABLE" ); 
     }
 }
