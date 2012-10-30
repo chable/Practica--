@@ -36,9 +36,16 @@ public class Practica1
                   
                   System.out.print("Este programa fue creado con el objetivo de invertir cadenas,mostrar lo largo de la cadena,y dependiendo de la opcion que eliga es la funcion que realizara.");
                   break;
-              
- 
-        
+                  case 1:
+                  
+                  String robert=lectura.next();
+                  for(int i=robert.length() - 1; i >= 0; i--)
+                  {
+                      char c = robert.charAt(i);
+                      System.out.print(c);
+                  }
+                  break;
+
       
        
     }
